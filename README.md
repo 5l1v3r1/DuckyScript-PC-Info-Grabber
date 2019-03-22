@@ -11,8 +11,9 @@ Tested with MalDuino Elite BadUSB
 3. a target computer with windows 10
 
 # Instructions
-1) Edit the script to use your own gmail username and password
-2) Upload the script to your BadUSB
-3) Plug it into a target computer, wait for the powershell window to close, and unplug the BadUSB
-4) Check your Email
-5) Have fun!
+1) If you use Gmail, you need to change the "allow access for less secure apps" settings, see https://support.google.com/accounts/answer/6010255
+2) Edit the script to use your own gmail username and password
+3) Upload the script to your BadUSB
+4) Plug it into a target computer, wait for the powershell window to close, and unplug the BadUSB
+5) Check your Email
+6) Have fun!
