@@ -1,6 +1,10 @@
 # DuckyScript-PC-Info-Grabber
-A Duckyscript script thats grabs information like: saved wifi passwords, IP and GeoIP, hardware, installed programs, and more! <br />
+A Duckyscript script thats emails you information like: saved wifi passwords, IP and GeoIP, hardware, installed programs, and more! <br />
 Tested with MalDuino Elite BadUSB
+# Features
+1. Grabs information like: Saved WIFI Passwords, IP and GeoIP, installed programs, and more.
+2. Emails you the information
+3. Written in DuckyScript and PowerShell
 # Requirements
 1. A BadUSB that supports duckyscript
 2. a Gmail account
